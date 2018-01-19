@@ -19,8 +19,15 @@ I am an undergradute at Brigham Young Universtiy studying Physics. I have been p
 
 Projects
 ------------
+#### Symmetry Preserving Integragtion Grids:
 
+My current work is in support of our symmertry preserving integration grid project. Generating supercells that manitain the symmertry of the parent crystal lattice. These supercells are used as the integration grids for reciprocal bruillouin zone integrations to calculate crystal system energies and enthalpies. This preservation of symmetry allows for symmetry folding in the integration process.
 
+* [Project Impact]
+
+* [Project Context]
+
+* [project Results]
 
 Programming Experience
 -----------------------
