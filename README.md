@@ -15,7 +15,7 @@ About Me
 2016-2020 (expected)
 :   **Bachelors Physics**; Brigham Young University (Provo)  
 
-I am an undergradute at Brigham Young Universtiy studying Physics. I have been part of the Material Simulation Grop since my freshmen year in 2016. Since then I have deloped skills in C++ and Python as well as good coding practices such as continual integration and code coverage for unit testing. I have also gained experience working in teams to complete projects.
+I am an undergradute at Brigham Young Universtiy studying Physics. I have been part of the Material Simulation Grop at BYU since my freshmen year in 2016. Since then I have deloped skills in C++ and Python as well as good coding practices such as continual integration and code coverage for unit testing. I also have experience working in teams on longer projects.
 
 Programming Experience
 -----------------------
