@@ -1,5 +1,5 @@
 Parker Hamilton
-==================
+======================
 
 -----------------------------------        ----------------------------------
 Brigham young University  
@@ -24,7 +24,7 @@ Programming Experience
 |Python  |1.5 years |BYU materials simulation group|
 |C++     |2 years   |BYU courses                   |
 
-I also have experience using linux based systems and command line interfaces
+*I also have experience using linux based systems and command line interfaces*
 
 Projects
 ------------
