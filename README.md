@@ -23,6 +23,7 @@ Programming Experience
 |--------|----------|------------------------------|
 |Python  |1.5 years |BYU materials simulation group|
 |C++     |2 years   |BYU courses                   |
+|Fortran |6 months  |BYU materials simulation group|
 
 *I also have experience using linux based systems and command line interfaces*
 
@@ -30,11 +31,4 @@ Projects
 ------------
 #### Symmetry Preserving Integragtion Grids:
 
-My current work is in support of our symmertry preserving integration grid project. Generating supercells that manitain the symmertry of the parent crystal lattice. These supercells are used as the integration grids for reciprocal bruillouin zone integrations to calculate crystal system energies and enthalpies. This preservation of symmetry allows for symmetry folding in the integration process.
-
-* [Project Impact]
-
-* [Project Context]
-
-* [project Results]
-
+My current work is in support of our symmertry preserving integration grid project. The purpose of this project is to decrease the calculation time of numeric integrations that are used in material physics by improving the generation of integration grids. 
